@@ -1,0 +1,16 @@
+{
+  "name": "astro-project",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^4.11.0"
+    // Add any other dependencies like React, Tailwind, Svelte, etc., here
+  }
+}
